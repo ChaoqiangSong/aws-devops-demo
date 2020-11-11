@@ -10,4 +10,4 @@
 
 ### Jenkins Pipeline Build Status
 
-[![Build Status](http://161.189.165.31:3306/job/pipeline-test/badge/icon)](http://161.189.165.31:3306/job/pipeline-test/)
+[![Build Status](http://161.189.165.31:3306/job/pipeline-test/badge/icon)](http://161.189.165.31:3306/job/pipeline-test/) 
