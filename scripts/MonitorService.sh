@@ -1,4 +1,4 @@
 #!/bin/bash
 
-curl localhost:8080
+curl --connect-timeout 10 localhost:8080
 exit $?
